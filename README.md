@@ -8,7 +8,7 @@
 ## Soal
 <br />
 
-![screenshot](./image/ss1.png)
+![screenshot](https://raw.githubusercontent.com/fvldi/Jarkom_Modul4_Lapres_T14/main/Image/ss1.png)
 
 <br />
 Catatan
@@ -25,11 +25,11 @@ Catatan
 #### Cisco Packet Tracker CIDR
 - Buat topologi sesuai soal di CPT, lalu tentukan subnet.
 
-![screenshot](./image/ss2.png)
+![screenshot](https://raw.githubusercontent.com/fvldi/Jarkom_Modul4_Lapres_T14/main/Image/ss2.png)
 
 - Hitung pembagian IP menggunakan tree seperti dibawah
 
-![screenshot](./image/ss3.png)
+![screenshot](https://raw.githubusercontent.com/fvldi/Jarkom_Modul4_Lapres_T14/main/Image/ss3.png)
 
 - Setelah itu masukan ke pengaturan CPT seperti biasa, lalu tes satu persatu apakah sudah bisa terhubung dengan benar.
 
@@ -37,10 +37,10 @@ Catatan
 
 - Buat topologi, lalu tentukan subnet
 
-![screenshot](./image/ss4.png)
+![screenshot](https://raw.githubusercontent.com/fvldi/Jarkom_Modul4_Lapres_T14/main/Image/ss4.png)
 
 - Hitung IP Address yang dibutuhkan (Jumlah Host, Router, dan Server). Pada soal ini ada kurang lebih 5841 IP Address maka subnet yang dipakai untuk membuat pohon IP yaitu subnet 19.
 
-![screenshot](./image/ss5.png)
+![screenshot](https://raw.githubusercontent.com/fvldi/Jarkom_Modul4_Lapres_T14/main/Image/ss5.png)
 
 - Tentukan IP dengan cara tree
